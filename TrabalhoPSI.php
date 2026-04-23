@@ -80,7 +80,7 @@ break
 } 
 
 
-if (opcao==3)  {
+if ($opcao==3)  {
 echo"encerrando sistema";
 }
 
