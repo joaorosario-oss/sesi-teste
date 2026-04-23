@@ -36,15 +36,6 @@ break
 
 }
 if ($escolha==2){
-echo "termos Gerais psi";
-
-
-}
-if ($escolha==3){
-echo "encerrando programa";
-
-}
-if ($escolha==2){
 echo "termos gerais psi";
 $topico = readline ("qual tópico você deseja ver?\n")
 echo "------------------------\n";
@@ -64,17 +55,6 @@ case 2
 echo "escopo da política";
 break
 } 
-
-}
-if ($escolha==2){
-echo "termos Gerais psi";
-
-
-}
-if ($escolha==3){
-echo "encerrando programa";
-
-}
 
 
 if (opcao==3)  {
