@@ -32,6 +32,18 @@ break
 case 2
 echo "escopo da política";
 break
+
+  case 3 
+  echo "Resposabilidades";
+  break
+    
+    case 4
+    echo "Boas práticas de segurança";
+  
+  case 5
+    echo "Consequências do descumprimento";
+  
+
 } 
 
 }
@@ -54,6 +66,17 @@ break
 case 2
 echo "escopo da política";
 break
+
+   case 3 
+  echo "Resposabilidades";
+  break
+    
+    case 4
+    echo "Boas práticas de segurança";
+  
+  case 5
+    echo "Consequências do descumprimento";
+  
 } 
 
 
