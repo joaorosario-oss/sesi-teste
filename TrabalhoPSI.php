@@ -26,7 +26,7 @@ echo "▪ 5-Consequências do descumprimento\n";
 switch ($topico) {
 
 case 1
-echo "objetivo da psi \n A psi tem como objetivo principal de estabelecer diretrizes que buscam garantir a confidencialidade nos dados dos funcionários e agentes da empresa, ela visa o cumprimento da lei geral da segurança de dados (lgpd) na qual deve sempre garantir o uso adequado de informações pessoais, priorizando sempre a mitigação dos riscos de segurança que podem afetar tais informações evitando danos que podem afetar a empresa e os funcionários";
+echo "objetivo da psi /n A psi tem como objetivo principal de estabelecer diretrizes que buscam garantir a confidencialidade nos dados dos funcionários e agentes da empresa, ela visa o cumprimento da lei geral da segurança de dados (lgpd) na qual deve sempre garantir o uso adequado de informações pessoais, priorizando sempre a mitigação dos riscos de segurança que podem afetar tais informações evitando danos que podem afetar a empresa e os funcionários";
 break
 
 case 2
